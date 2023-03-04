@@ -49,5 +49,5 @@ K213118 				Ismail Qayyum 			OS Assignment 01
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/126987082/222928433-574df98d-0ad6-4ebe-a9b3-51f01b9bbecb.png">
 
  
- 
+ --> Kernal Has Been Set-Up Successfully !
 
