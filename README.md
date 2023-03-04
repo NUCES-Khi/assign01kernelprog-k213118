@@ -50,4 +50,4 @@ K213118 				Ismail Qayyum 			OS Assignment 01
 
  
  
-![image](https://user-images.githubusercontent.com/126987082/222928316-9aa7b1fd-9fe4-4d8a-b14c-647b58a7bf7f.png)
+
